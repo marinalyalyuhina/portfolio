@@ -1,4 +1,4 @@
-# [Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости](https://github.com/marinalyalyuhina/apartment-ads-research)
+# [Исследовательский анализ рынка недвижимости](https://github.com/marinalyalyuhina/apartment-ads-research)
 
 ## Описание проекта: 
 
@@ -14,5 +14,9 @@ Python, pandas, matplotlib, исследовательский анализ да
 # [Статистический анализ сервиса аренды самокатов GoFast](https://github.com/marinalyalyuhina/scooter-rental-service-analysis)
 
 ## Описание проекта:
+
+## Стек:
+
+Python, Pandas, matplotlib, NumPy, SkiPy, описательная статистика, проверка статистических гипотез
 
 
