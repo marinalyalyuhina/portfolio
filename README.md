@@ -21,7 +21,7 @@ Python, pandas, matplotlib, исследовательский анализ да
 
 Python, Pandas, matplotlib, NumPy, SkiPy, описательная статистика, проверка статистических гипотез
 
-# [Определение возраста покупателей] (https://github.com/marinalyalyuhina/determining-the-age-of-buyers)
+# [Определение возраста покупателей](https://github.com/marinalyalyuhina/determining-the-age-of-buyers)
 
 ## Описание проекта:
 
